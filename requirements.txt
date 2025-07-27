@@ -1,0 +1,12 @@
+streamlit
+streamlit-chat
+langchain
+langchain-community
+langchain-pinecone
+langchain-huggingface
+pinecone
+sentence-transformers
+requests
+transformers
+torch
+accelerate
